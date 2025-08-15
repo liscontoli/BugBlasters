@@ -48,7 +48,7 @@ Tap-to-zap cyber pests before they drain your device! Bug Blasters is a fast 2D 
 ## 🛠 Tech Stack
 - **Engine:** Unity (2D)
 - **Language:** C#
-- **UI/Fonts:** Unity UI / TextMeshPro
+- **UI/Fonts:** Unity UI / TextMeshPro / Figma
 - **Audio:** Unity-compatible SFX/BGM
 - **Local Data:** (optional) PlayerPrefs / lightweight storage
 
