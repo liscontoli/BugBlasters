@@ -22,6 +22,13 @@ Tap-to-zap cyber pests before they drain your device! Bug Blasters is a fast 2D 
 ## Play it on Android
 - **[Bug Blasters – Android APK](BB_ANDROID_APK/BB_Final.apk)**
 
+### 📲 Installing the APK
+1. Download the APK from the link above.
+2. On your Android device: **Settings → Security → Install unknown apps** (enable for your browser/files app).
+3. Open the APK and tap **Install**.
+4. Launch **Bug Blasters** and play!
+
+
 ## Features
 - **Five escalating levels**: Phone, Tablet, Laptop, Desktop, Supercomputer.
 - **Two enemy types**: Black bugs (1 tap), Green bugs (2 taps).
