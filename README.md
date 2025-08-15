@@ -19,6 +19,9 @@ Tap-to-zap cyber pests before they drain your device! Bug Blasters is a fast 2D 
 ![Gameover Screen](Screenshots/BB_GameoverScreen.png)
 ![Game Exit Screen](Screenshots/BB_GameExitScreen.png)
 
+## Play it on Android
+- **[Bug Blasters – Android APK](BB_ANDROID_APK/BB_Final.apk)**
+
 ## Features
 - **Five escalating levels**: Phone, Tablet, Laptop, Desktop, Supercomputer.
 - **Two enemy types**: Black bugs (1 tap), Green bugs (2 taps).
@@ -42,6 +45,11 @@ Tap-to-zap cyber pests before they drain your device! Bug Blasters is a fast 2D 
 - **Audio:** Unity-compatible SFX/BGM
 - **Local Data:** (optional) PlayerPrefs / lightweight storage
 
+# Requirements
+
+- Unity 2023.1.15f1
+
+
 ## 🚀 Getting Started (Dev)
 ```bash
 # Clone
@@ -50,3 +58,4 @@ cd BugBlasters
 
 # Open in Unity
 # Use the Unity Hub -> Add -> select this folder -> Open
+
